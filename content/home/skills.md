@@ -18,18 +18,38 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  #description = "90%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  #description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "salesforce"
+  icon_pack = "fab"
+  name = "SalesForce"
+  #description = "10%"
+  
+  
+[[feature]]
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Data Management"
+  #description = "10%"
+
+
+[[feature]]
+  icon = "tachometer-alt"
+  icon_pack = "fas"
+  name = "Dashboards"
+  #description = "10%"
+
+[[feature]]
+  icon = "road"
+  icon_pack = "fas"
+  name = "Road Mapping"
+  #description = "10%"
 
 +++

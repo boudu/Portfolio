@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: Stanford University
   url: ""
-role: Professor of Artificial Intelligence
+role: Program Evaluator
 social:
 - icon: envelope
   icon_pack: fas
