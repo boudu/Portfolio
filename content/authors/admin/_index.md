@@ -18,7 +18,7 @@ interests:
 - Data management
 - Statistics
 organizations:
-- name: Stanford University
+- name: Roseway Evaluation
   url: ""
 role: Program Evaluator
 social:
@@ -38,4 +38,4 @@ user_groups:
 - Visitors
 ---
 
-Boudu Bingay is a head evaluator at Roseway Evaluation. His research interests include social epidemiology, program evaluation and impimentation evaluation.
+Boudu Bingay is a head evaluator at Roseway Evaluation. His research interests include social epidemiology, program evaluation and Implementation evaluation.
